@@ -1,0 +1,8 @@
+https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/
+	1. Responsibilities : Move data between systems ETL (Pandas, Spark, Flink)
+	2. Manage Data Warehouse : (Snowflake, redshift, postgres, data lakes)
+	3. Schedule, execute and monitor data pipelines for failures (Airflow, dbt)
+	4. Serve data to end-users : (Tableau, Python/Scala/Go for data endpoints,)
+	5. Data strategy for the company : documentation and brainstorming
+	6. Deploy ML models to production : MLOps
+	
